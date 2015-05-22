@@ -7,5 +7,5 @@ title: About
 
 I believe in DRY (Don't repeat yourself)... so...
 
-* LinkedIn: https://linkedin.com/in/ryanwalls
-* Twitter: https://twitter.com/ryanwalls
+* LinkedIn: [https://linkedin.com/in/ryanwalls](https://linkedin.com/in/ryanwalls)
+* Twitter: [https://twitter.com/ryanwalls](https://twitter.com/ryanwalls)
