@@ -6,7 +6,8 @@ relative_permalinks: true
 
 # Setup
 title:               Ryan Walls
-tagline:             '@ryanwalls'
+# Twitter handle
+tagline:             ryanwalls
 description:         'A site to help future me solve problems that I have already solved.'
 url:                 http://ryanwalls.github.io
 baseurl:             ''
