@@ -26,7 +26,7 @@ to make sure someone isn't already working on the feature.
 I would also browse/search the issues on the github page to see if someone has
 a related outstanding issue.  If you don't know what IRC/freenode are start here: <https://freenode.net/using_the_network.shtml>
 * If at this point you still want to proceed...read this: <https://docs.ansible.com/developing_modules.html>
-* Clone the main ansible repo.  
+* Clone the main ansible repo.  <https://github.com/ansible/ansible>
 * Setup your environment to run against the ansible source you just cloned.  
 {% highlight bash %}
 source ansible/hacking/env-setup
